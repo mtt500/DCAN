@@ -76,15 +76,3 @@ The data should be in JSONL format, with each line containing:
   year={2026}
 }
 ```
-
-```bash
-@article{yang2026fedpalm,
-  title={FedPalm: A General Federated Learning Framework for Closed- and Open-Set Palmprint Verification},
-  author={Yang, Ziyuan and others},
-  journal={IEEE Transactions on Information Forensics and Security},
-  volume={21},
-  pages={3093--3107},
-  year={2026},
-  doi={10.1109/TIFS.2026.3671064}
-}
-```
