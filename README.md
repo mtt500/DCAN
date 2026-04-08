@@ -68,13 +68,16 @@ The data should be in JSONL format, with each line containing:
 - tqdm
 
 ## Reference
+```bash
 @article{guo2026codefingerprints,
   title={Code Fingerprints: Disentangled Attribution of LLM-Generated Code},
   author={Guo, Jiaxun and Yang, Ziyuan and Sun, Mengyu and Wang, Hui and Lu, Jingfeng and Zhang, Yi},
   journal={arXiv preprint arXiv:2603.04212},
   year={2026}
 }
+```
 
+```bash
 @article{yang2026fedpalm,
   title={FedPalm: A General Federated Learning Framework for Closed- and Open-Set Palmprint Verification},
   author={Yang, Ziyuan and others},
@@ -84,3 +87,4 @@ The data should be in JSONL format, with each line containing:
   year={2026},
   doi={10.1109/TIFS.2026.3671064}
 }
+```
